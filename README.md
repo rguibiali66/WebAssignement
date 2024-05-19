@@ -66,7 +66,7 @@ Contributions are welcome! Please follow these steps:
 - Open a pull request.
 
 <h1>Contact</h1></br>
-Name: Jalal</br>
-Email: mahjoubjalal2@gmail.com</br>
-GitHub: [Jalal18](https://github.com/Jalal18)</br>
+Name: Ali Rguibi</br>
+Email: myargb66@gmail.com</br>
+GitHub: rguibiali66</br>
 
