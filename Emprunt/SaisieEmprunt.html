@@ -1,0 +1,32 @@
+<html lang="en">
+	<head> 
+		<title>ADD LOANS</title>
+		<link rel="stylesheet" href="../css/styleop.css">
+		<link rel="shortcut icon" href="../Accueil/images/img.png">
+	</head>
+	<body>
+		<div class="container">
+			<div class="glass">
+				<form method="POST" action="saveEmprunt.php">
+					<h1>SAVE LOANS</h1>
+					<input type="number" size="10" name="idEmprunt" placeholder="Id Loan"><br>
+					<input type="date" id="d" name="Date Emprunt" placeholder="DateEmprunt(yyyy-mm-dd)" ><br>
+					<input type="date" size="10" name="Date Retour" placeholder="DateRetour(yyyy-mm-dd)"><br>
+					<input type="number" size="10" name="idabonne" placeholder="Id Subscriber"><br>
+					<input type="number" size="10" name="idLivre" placeholder="Id Book"><br>
+					<input type="submit" value="ADD">
+				</form>
+			</div>
+		</div>
+		<div class="circle1"></div>
+    	<div class="circle2"></div>
+		<script>
+			let d = new Date()
+			function date(){
+				document.getElementById().innerHTML=d;
+				
+			}
+		</script>
+		
+	</body>
+</html>
