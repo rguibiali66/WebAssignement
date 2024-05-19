@@ -8,7 +8,6 @@ This web project is built using HTML, CSS, and PHP. It features a library system
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup and Installation](#setup-and-installation)
-- [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
@@ -39,23 +38,23 @@ This web project is built using HTML, CSS, and PHP. It features a library system
    http://localhost/WebAssignement
 <h1>Project Structure</h1>
 
-WebAssignement/
-├── css/
-│   └── styles.css
-├── .DS_Store
-├── Accueil/
-│   └── index.html
-├── Emprunt/
-│   └── index.html
-├── Livre/
-│   └── index.html
-├── Homme.html
-├── connexion.php
-├── database.sql
-├── deconnexion.php
-├── index.html
-└── verif_connexion.php
-
+WebAssignement/</br>
+├── css/</br>
+│   └── styles.css</br>
+├── .DS_Store</br>
+├── Accueil/</br>
+│   └── index.html</br>
+├── Emprunt/</br>
+│   └── index.html</br>
+├── Livre/</br>
+│   └── index.html</br>
+├── Homme.html</br>
+├── connexion.php</br>
+├── database.sql</br>
+├── deconnexion.php</br>
+├── index.html</br>
+└── verif_connexion.php</br>
+</br>
 <h1>Contributing</h1>
 Contributions are welcome! Please follow these steps:
 
@@ -66,8 +65,8 @@ Contributions are welcome! Please follow these steps:
 - Push to the branch (git push origin feature-branch).
 - Open a pull request.
 
-<h1>Contact</h1>
-Name: Jalal
-Email: mahjoubjalal2@gmail.com
-GitHub: [Jalal18](https://github.com/Jalal18)
+<h1>Contact</h1></br>
+Name: Jalal</br>
+Email: mahjoubjalal2@gmail.com</br>
+GitHub: [Jalal18](https://github.com/Jalal18)</br>
 
